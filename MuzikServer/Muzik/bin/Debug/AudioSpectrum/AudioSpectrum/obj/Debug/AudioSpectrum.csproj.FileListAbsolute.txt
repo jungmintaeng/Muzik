@@ -1,0 +1,51 @@
+C:\Users\Seyeong\Documents\이거다\AudioSpectrum\AudioSpectrum\bin\Debug\AudioSpectrum.exe.config
+C:\Users\Seyeong\Documents\이거다\AudioSpectrum\AudioSpectrum\bin\Debug\AudioSpectrum.exe
+C:\Users\Seyeong\Documents\이거다\AudioSpectrum\AudioSpectrum\bin\Debug\AudioSpectrum.pdb
+C:\Users\Seyeong\Documents\이거다\AudioSpectrum\AudioSpectrum\obj\Debug\AudioSpectrum.csprojResolveAssemblyReference.cache
+C:\Users\Seyeong\Documents\이거다\AudioSpectrum\AudioSpectrum\obj\Debug\Spectrum.baml
+C:\Users\Seyeong\Documents\이거다\AudioSpectrum\AudioSpectrum\obj\Debug\MainWindow.g.cs
+C:\Users\Seyeong\Documents\이거다\AudioSpectrum\AudioSpectrum\obj\Debug\Spectrum.g.cs
+C:\Users\Seyeong\Documents\이거다\AudioSpectrum\AudioSpectrum\obj\Debug\App.g.cs
+C:\Users\Seyeong\Documents\이거다\AudioSpectrum\AudioSpectrum\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Seyeong\Documents\이거다\AudioSpectrum\AudioSpectrum\obj\Debug\AudioSpectrum_MarkupCompile.cache
+C:\Users\Seyeong\Documents\이거다\AudioSpectrum\AudioSpectrum\obj\Debug\AudioSpectrum_MarkupCompile.lref
+C:\Users\Seyeong\Documents\이거다\AudioSpectrum\AudioSpectrum\obj\Debug\MainWindow.baml
+C:\Users\Seyeong\Documents\이거다\AudioSpectrum\AudioSpectrum\obj\Debug\AudioSpectrum.g.resources
+C:\Users\Seyeong\Documents\이거다\AudioSpectrum\AudioSpectrum\obj\Debug\AudioSpectrum.Properties.Resources.resources
+C:\Users\Seyeong\Documents\이거다\AudioSpectrum\AudioSpectrum\obj\Debug\AudioSpectrum.csproj.GenerateResource.Cache
+C:\Users\Seyeong\Documents\이거다\AudioSpectrum\AudioSpectrum\obj\Debug\AudioSpectrum.exe
+C:\Users\Seyeong\Documents\이거다\AudioSpectrum\AudioSpectrum\obj\Debug\AudioSpectrum.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\AudioSpectrum\AudioSpectrum\bin\Debug\AudioSpectrum.exe.config
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\AudioSpectrum\AudioSpectrum\obj\Debug\AudioSpectrum.exe
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\AudioSpectrum\AudioSpectrum\obj\Debug\AudioSpectrum.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\AudioSpectrum\AudioSpectrum\bin\Debug\AudioSpectrum.exe
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\AudioSpectrum\AudioSpectrum\bin\Debug\AudioSpectrum.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\AudioSpectrum\AudioSpectrum\obj\Debug\AudioSpectrum.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\AudioSpectrum\AudioSpectrum\obj\Debug\Spectrum.baml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\AudioSpectrum\AudioSpectrum\obj\Debug\MainWindow.g.cs
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\AudioSpectrum\AudioSpectrum\obj\Debug\Spectrum.g.cs
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\AudioSpectrum\AudioSpectrum\obj\Debug\App.g.cs
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\AudioSpectrum\AudioSpectrum\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\AudioSpectrum\AudioSpectrum\obj\Debug\AudioSpectrum_MarkupCompile.cache
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\AudioSpectrum\AudioSpectrum\obj\Debug\AudioSpectrum_MarkupCompile.lref
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\AudioSpectrum\AudioSpectrum\obj\Debug\MainWindow.baml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\AudioSpectrum\AudioSpectrum\obj\Debug\AudioSpectrum.g.resources
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\AudioSpectrum\AudioSpectrum\obj\Debug\AudioSpectrum.Properties.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\AudioSpectrum\AudioSpectrum\obj\Debug\AudioSpectrum.csproj.GenerateResource.Cache
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\bin\Debug\AudioSpectrum\AudioSpectrum\bin\Debug\AudioSpectrum.exe.config
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\bin\Debug\AudioSpectrum\AudioSpectrum\obj\Debug\AudioSpectrum.exe
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\bin\Debug\AudioSpectrum\AudioSpectrum\obj\Debug\AudioSpectrum.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\bin\Debug\AudioSpectrum\AudioSpectrum\bin\Debug\AudioSpectrum.exe
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\bin\Debug\AudioSpectrum\AudioSpectrum\bin\Debug\AudioSpectrum.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\bin\Debug\AudioSpectrum\AudioSpectrum\obj\Debug\AudioSpectrum.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\bin\Debug\AudioSpectrum\AudioSpectrum\obj\Debug\Spectrum.baml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\bin\Debug\AudioSpectrum\AudioSpectrum\obj\Debug\MainWindow.g.cs
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\bin\Debug\AudioSpectrum\AudioSpectrum\obj\Debug\Spectrum.g.cs
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\bin\Debug\AudioSpectrum\AudioSpectrum\obj\Debug\App.g.cs
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\bin\Debug\AudioSpectrum\AudioSpectrum\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\bin\Debug\AudioSpectrum\AudioSpectrum\obj\Debug\AudioSpectrum_MarkupCompile.cache
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\bin\Debug\AudioSpectrum\AudioSpectrum\obj\Debug\AudioSpectrum_MarkupCompile.lref
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\bin\Debug\AudioSpectrum\AudioSpectrum\obj\Debug\MainWindow.baml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\bin\Debug\AudioSpectrum\AudioSpectrum\obj\Debug\AudioSpectrum.g.resources
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\bin\Debug\AudioSpectrum\AudioSpectrum\obj\Debug\AudioSpectrum.Properties.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\bin\Debug\AudioSpectrum\AudioSpectrum\obj\Debug\AudioSpectrum.csproj.GenerateResource.Cache

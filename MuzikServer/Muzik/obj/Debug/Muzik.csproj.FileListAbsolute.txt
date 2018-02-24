@@ -1,0 +1,26 @@
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\bin\Debug\Muzik.exe.config
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\bin\Debug\Muzik.exe
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\bin\Debug\Muzik.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\obj\Debug\Muzik.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\obj\Debug\Muzik.MainForm.resources
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\obj\Debug\Muzik.Properties.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\obj\Debug\Muzik.csproj.GenerateResource.Cache
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\obj\Debug\Muzik.exe
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\obj\Debug\Muzik.pdb
+N:\Muzik\Muzik\bin\Debug\Muzik.exe.config
+N:\Muzik\Muzik\obj\Debug\Muzik.exe
+N:\Muzik\Muzik\obj\Debug\Muzik.pdb
+N:\Muzik\Muzik\bin\Debug\Muzik.exe
+N:\Muzik\Muzik\bin\Debug\Muzik.pdb
+N:\Muzik\Muzik\obj\Debug\Muzik.csprojResolveAssemblyReference.cache
+N:\Muzik\Muzik\obj\Debug\Muzik.MainForm.resources
+N:\Muzik\Muzik\obj\Debug\Muzik.Properties.Resources.resources
+N:\Muzik\Muzik\obj\Debug\Muzik.csproj.GenerateResource.Cache
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\bin\Debug\FMOD\32\fmod.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\bin\Debug\FMOD\64\fmod.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\obj\Debug\Muzik.DrumpadForm.resources
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\bin\Debug\CSCore.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\bin\Debug\CSCore.xml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\obj\Debug\Muzik.GuitarForm.resources
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\obj\Debug\Muzik.PianoForm.resources
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Muzik\Muzik\bin\Debug\Packet_Delivery.dll
